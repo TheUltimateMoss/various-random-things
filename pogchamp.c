@@ -1,11 +1,8 @@
 #include <stdio.h>
-int main()
+void main()
 {
+	while (1)
 	{
-		while (1)
-		{
-			printf("Poggers!\n");
-		}
+		printf("Poggers!\n");
 	}
-	return 0 ;
 }
